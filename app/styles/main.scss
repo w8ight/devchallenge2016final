@@ -1,0 +1,29 @@
+//@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.grid-half {
+    padding: 10px;
+    width: 49%;
+    display: inline-block;
+    background: #F4F4F4;
+    box-sizing: border-box;
+    & + .grid-half {
+        margin-left: 2%;
+    }
+}
+
+.mx__upload {
+    opacity: 1 !important;
+}
+
+.mx__player {
+    padding: 5px 10px;
+    background: darken(#F4F4F4, 5%);
+}
+
+.mx__player audio {
+    display: none;
+}
+
