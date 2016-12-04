@@ -1,4 +1,0 @@
-2016-12-04 19:58:16: [PM2][WORKER] Started with refreshing interval: 30000
-2016-12-04 19:58:16: [[[[ PM2/God daemon launched ]]]]
-2016-12-04 19:58:16: BUS system [READY] on port .pm2/pub.sock
-2016-12-04 19:58:16: RPC interface [READY] on port .pm2/rpc.sock
